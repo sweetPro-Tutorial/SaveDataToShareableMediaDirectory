@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestSave</string>
+    <string name="permissions_request">If you deny a permission, App functionality is restricted.</string>
+</resources>
